@@ -30,3 +30,6 @@ Proposed Patterns
 * Pattern reply correlation point-to-point for transactions and stocks
 * Publish-Suscriber for trade forecasting
 
+C4 Model
+https://www.draw.io/#W87fbfff769e630f4%2F87FBFFF769E630F4!192
+
